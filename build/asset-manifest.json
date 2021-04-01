@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de1f0037.chunk.css",
+    "main.js": "/static/js/main.fb2020a9.chunk.js",
+    "main.js.map": "/static/js/main.fb2020a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c9185485.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c9185485.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1d562914.chunk.js": "/static/js/2.1d562914.chunk.js",
+    "static/js/2.1d562914.chunk.js.map": "/static/js/2.1d562914.chunk.js.map",
+    "static/js/3.51955bf0.chunk.js": "/static/js/3.51955bf0.chunk.js",
+    "static/js/3.51955bf0.chunk.js.map": "/static/js/3.51955bf0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.de1f0037.chunk.css.map": "/static/css/main.de1f0037.chunk.css.map",
+    "static/js/2.1d562914.chunk.js.LICENSE.txt": "/static/js/2.1d562914.chunk.js.LICENSE.txt",
+    "static/media/NykaaLogoSvg.7512b4b1.svg": "/static/media/NykaaLogoSvg.7512b4b1.svg",
+    "static/media/car1.e2d7be6c.jpg": "/static/media/car1.e2d7be6c.jpg",
+    "static/media/car2.014ecd22.gif": "/static/media/car2.014ecd22.gif",
+    "static/media/car3.dad17c07.jpg": "/static/media/car3.dad17c07.jpg",
+    "static/media/car4.d5552d98.jpg": "/static/media/car4.d5552d98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9185485.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1d562914.chunk.js",
+    "static/css/main.de1f0037.chunk.css",
+    "static/js/main.fb2020a9.chunk.js"
+  ]
+}

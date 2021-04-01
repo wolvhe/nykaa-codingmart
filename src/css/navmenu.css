@@ -1,0 +1,62 @@
+#brand img{
+    width:105px;
+    margin:0px -18px 0px 50px ;
+    padding: 0%;
+}
+.navbar{
+    background:white;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+span{
+margin : 20px 30px;
+color: black;
+}
+
+.nav_account {
+    margin-right: -40px !important;
+}
+.nav-link{
+    font-weight: bold;
+    color: black;
+}
+
+.Nav_icon {
+    margin-right: 10px;
+}
+#linkText {
+    font-size: 14px;
+    color: black;
+}
+#linkText:hover  {
+    color: #FC2779;
+}
+.mr-auto {
+    margin-left: 20px;
+}
+/*  */
+/* Styles for wrapping the search box */
+
+.searchbar_main {
+    width: 25%;
+    margin-top: 20px;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.has-search .form-control {
+    padding-left: 18%;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 0px;
+    height: 2.375rem;
+    margin-left: 20px;
+    line-height: 1px;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
