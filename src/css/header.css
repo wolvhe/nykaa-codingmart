@@ -1,5 +1,5 @@
 .head{
-    background-image: url(https://adn-static1.nykaa.com/media/bannerpro/TopStrip1_Final_DesktopStripholi_1365x40-2730x80.jpg);
+    background-image: url(https://images-static.nykaa.com/uploads/63be37b1-224a-4a1e-a93c-e19b55971b56.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 40px;
@@ -20,3 +20,6 @@
 .preheader_text:hover {
     color: #FC2779;
 }
+@media all and (max-width: 580px) {
+    .head { display: none; }
+  }

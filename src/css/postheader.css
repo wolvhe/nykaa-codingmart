@@ -1,0 +1,35 @@
+@media all and (max-width: 580px) {
+    .postheader_link { display: none; }
+  }
+
+.postheader_main {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    border-top: lightgray 1px solid;
+    height: 30px;
+    max-height: 30px;
+}
+.postheader_link {
+    margin-right: 25px;
+    color: gray;
+    font-size: small;
+}
+.postheader_link:hover {
+    color: #FC2779;
+    text-shadow: 0 0.02em #FC2779,0 -0.02em #FC2779,0.02em 0 #FC2779,-0.02em 0 #FC2779;
+    overflow: hidden;
+    cursor: pointer;
+}
+.postheader_title_offers {
+    margin-top: 1%;
+    overflow: hidden;
+}
+.postheader_title {
+    margin-top: 1%;
+    margin-bottom: -1%;
+}
+.postheader_link_bold {
+    font-weight: 500;
+}
