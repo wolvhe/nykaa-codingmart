@@ -1,0 +1,25 @@
+.head{
+    background-image: url(https://images-static.nykaa.com/uploads/63be37b1-224a-4a1e-a93c-e19b55971b56.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40px;
+}
+.col
+{
+    padding-top: 7px;
+    
+    
+}
+.head span{
+    color :black;
+    margin: 20px;
+}
+.preheader_text {
+    cursor: pointer;
+}
+.preheader_text:hover {
+    color: #FC2779;
+}
+@media all and (max-width: 580px) {
+    .head { display: none; }
+  }
